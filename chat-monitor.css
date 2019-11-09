@@ -51,8 +51,8 @@ body {
 .chat-line__status,
 .user-notice-line {
   padding: 3px 1px 3px 6px !important;
-  font-size: 15px !important;
-  line-height: 18px !important;
+  font-size: 20px !important;
+  line-height: 23px !important;
   border-bottom: #444 solid 1px !important;
 }
 
@@ -63,13 +63,13 @@ body {
   display: inline;
 }
 .chat-line__message .chat-card__link .chat-card__title span {
-  font-size: 15px !important;
-  line-height: 18px !important;
+  font-size: 20px !important;
+  line-height: 23px !important;
   color: white;
 }
 .chat-line__message .chat-card__link .chat-card__title + div span {
-  font-size: 15px !important;
-  line-height: 18px !important;
+  font-size: 20px !important;
+  line-height: 23px !important;
   color: #bbb !important;
 }
 div.mention-fragment {
@@ -106,7 +106,7 @@ a {
 span[data-a-target="chat-message-text"],
 img.chat-image {
   color: white !important;
-  font-weight: 200 !important;
+  font-weight: 300 !important;
 }
 
 .deleted {
@@ -134,8 +134,8 @@ p.tw-c-text-link {
 }
 p.tw-c-text-link,
 p.tw-mg-l-05 {
-  font-size: 15px;
-  line-height: 18px;
+  font-size: 20px;
+  line-height: 23px;
 }
 div.tw-mg-y-05 {
   margin-bottom: 0 !important;
