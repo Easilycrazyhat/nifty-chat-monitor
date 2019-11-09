@@ -23,7 +23,7 @@ body {
 .chat-input input[type="password"],
 .chat-input input[type="search"],
 .chat-input {
-  font-size: 1.5rem !important;
+  font-size: .5rem !important;
 }
 
 .chat-list .tw-full-height.reverse {
